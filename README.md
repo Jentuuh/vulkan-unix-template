@@ -1,5 +1,5 @@
-# vulkan-linux-template
-A starter template for Vulkan projects on the Linux operating system. This template is based on [Brendan Galea's ](https://github.com/blurrypiano/littleVulkanEngine) excellent tutorial series on Vulkan.
+# vulkan-unix-template
+A starter template for Vulkan projects on a UNIX (Linux, MacOS) operating system. This template is based on [Brendan Galea's ](https://github.com/blurrypiano/littleVulkanEngine) excellent tutorial series on Vulkan.
 
 ## Contents
 The template has already set up the following things: 
@@ -13,7 +13,7 @@ The template has already set up the following things:
 * Loading of game objects (using tinyobjloader, only supports .obj files though)
 * Simple camera movement through keyboard commands (WASD, QE, arrows)
 
-## Building
+## Building on Linux
 First, clone the repository and run the following commands: 
 ```
   sudo apt update
@@ -30,3 +30,17 @@ To build, run the following command in the root directory of this repository:
 ```
 ./build.sh
 ```
+
+## Building on MacOS
+First, make sure you have the [MacOS VulkanSDK](https://vulkan.lunarg.com/sdk/home#mac) installed. Then run the following commands:
+```
+  brew install cmake
+  brew install glfw
+  brew install glm
+```
+This will install further dependencies.
+To build, run the following command in the root directory of this repository:
+```
+./build.sh
+```
+
