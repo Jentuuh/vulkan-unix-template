@@ -1,0 +1,4 @@
+/home/pxrcelain/Desktop/vulkan-template/littleVulkanEngine/build/CMakeFiles/VulkanTemplate.dir
+/home/pxrcelain/Desktop/vulkan-template/littleVulkanEngine/build/CMakeFiles/Shaders.dir
+/home/pxrcelain/Desktop/vulkan-template/littleVulkanEngine/build/CMakeFiles/edit_cache.dir
+/home/pxrcelain/Desktop/vulkan-template/littleVulkanEngine/build/CMakeFiles/rebuild_cache.dir
