@@ -1,5 +1,5 @@
 # vulkan-unix-template
-A starter template for Vulkan projects on a UNIX (Linux, MacOS) operating system. This template is based on [Brendan Galea's ](https://github.com/blurrypiano/littleVulkanEngine) excellent tutorial series on Vulkan.
+A starter template for Vulkan projects on a UNIX (Linux, MacOS) operating system. This template is based on [Brendan Galea's excellent tutorial series](https://github.com/blurrypiano/littleVulkanEngine) on Vulkan.
 
 ## Contents
 The template has already set up the following things: 
